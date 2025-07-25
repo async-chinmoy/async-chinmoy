@@ -33,11 +33,7 @@ Explore some of my notable projects:
 
 | Repository | Description |
 |------------|-------------|
-| **[some-repo]** | Example of Next.js + Postgres, with Prisma/Drizzle ORM and Zod validation |
-| **[another-repo]** | Feature-rich frontend app with SSR/SSG built in Next.js |
-| **[yet-another]** | API service using tRPC/Zod/TypeScript + Postgres integration |
-
-*(Replace with actual repo names, descriptions, and links.)*
+| **[Eventify]** | MERN stack project with libraries like Zustand for state management |
 
 ---
 
