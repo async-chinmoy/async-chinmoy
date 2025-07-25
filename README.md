@@ -2,8 +2,13 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/async-chinmoy?style=social)](https://github.com/async-chinmoy)
 [![Stars](https://img.shields.io/github/stars/async-chinmoy?style=social)](https://github.com/async-chinmoy?tab=stars)
-[![Top Langs](https://img.shields.io/github/languages/top/async-chinmoy?color=blue)](https://github.com/async-chinmoy)
 [![Profile Views](https://komarev.com/ghpvc/?username=async-chinmoy&label=Profile%20views)](https://github.com/async-chinmoy)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=async-chinmoy&show_icons=true&theme=github_dark" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=async-chinmoy&layout=compact&theme=github_dark" height="160" />
+</p>
+
 
 ---
 
